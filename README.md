@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_filename.png" alt="Prox Offensive Banner" width="100%">
+  <img src="ProxBanner.png" alt="Prox Offensive Banner" width="100%">
 </p>
 
 # Felix Gutierrez  
