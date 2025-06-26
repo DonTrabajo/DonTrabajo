@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner_filename.png" alt="Prox Offensive Banner" width="100%">
+</p>
+
 # Felix Gutierrez  
 🔹 Offensive Security | AI-Augmented Recon | Builder of Tools & Beats  
 🧠 aka **Prox** | 🎭 aka **Don Trabajo**
