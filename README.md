@@ -23,8 +23,9 @@ I created **Prox Offensive Information Security** to bring these worlds together
 
 > Want a free recon audit on your personal or company domain?  
 > 👉 [Visit recon.proxoffensive.com](https://recon.proxoffensive.com)  
-> 📫 Reach me at felix.gutierrez@proxoffensive.com
+> 📫 Reach me at redacted@example.com
 
 ---
 
 🫱🏻‍🫲🏽 Let’s build something real.
+
