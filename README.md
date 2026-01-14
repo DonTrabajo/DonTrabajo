@@ -1,38 +1,30 @@
-
-# Felix Gutierrez  
-🔹 Offensive Security | AI-Augmented Recon | Builder of Tools & Beats  
-🧠 aka **Prox** | 🎭 aka **Don Trabajo**
-
+# Don Trabajo
 Building public-safe offensive tooling with enforceable OPSEC gates; advanced orchestration and lab workflows remain private by design.
 
-## Key repos
-- [DonTrabajoGPT-Core](https://github.com/DonTrabajo/DonTrabajoGPT-Core) — recon core with OPSEC gates
-- [ProxMesh-Blueprint](https://github.com/DonTrabajo/ProxMesh-Blueprint) — multi-agent blueprint with demo + gates
-- [ProxReconToolkit](https://github.com/DonTrabajo/ProxReconToolkit) — client-facing recon starter + sample audit
-- [apt33-scythe-case-study](https://github.com/DonTrabajo/apt33-scythe-case-study) — emulation + detections
+## Start here
+- [DonTrabajoGPT-Core](https://github.com/DonTrabajo/DonTrabajoGPT-Core) ? public recon core (linPEAS parsing + CVE matching) with CI-enforced OPSEC gates
+- [ProxMesh-Blueprint](https://github.com/DonTrabajo/ProxMesh-Blueprint) ? public blueprint of a local-first multi-agent security lab (demo + OPSEC gates)
+- [ProxReconToolkit](https://github.com/DonTrabajo/ProxReconToolkit) ? client-facing recon starter + sample audit (public-safe)
+- [apt33-scythe-case-study](https://github.com/DonTrabajo/apt33-scythe-case-study) ? APT33 emulation case study with detections, hunting queries, and results/tuning notes
 
-Hi, I’m Felix — a red team recon specialist, ethical hacker, and lifelong creative.
+## What I do
+- AI-augmented recon and reporting tooling
+- Emulation planning and detection engineering
+- OPSEC-first publication practices (scans + CI gates)
+- Client-facing reporting artifacts
+- Clear, reproducible public demos
 
-As **Prox**, I focus on real-world offensive security: building tools, auditing attack surfaces, and integrating AI workflows into practical InfoSec ops. My current work includes the [Prox Offensive Recon Toolkit](https://recon.proxoffensive.com), custom GPT assistants, and OSINT enrichment pipelines.
+## Public vs private
+- Public repos contain demos, blueprints, and detection-focused writeups; sanitized and CI-gated.
+- Private repos contain operational workflows, lab bindings, and environment-specific automation.
+- If you need deeper detail, reach out.
 
-As **Don Trabajo**, I’m a musician and storyteller, blending Afro-Latin roots, brujería mysticism, and Bronx-born rhythm into sound. The same spirit that drives my music fuels my hacking — pattern recognition, improvisation, and flow.
+## Contact
+- Website: [proxoffensive.com](https://proxoffensive.com)
+- Email: felix.gutierrez@proxoffensive.com
 
-I created **Prox Offensive Information Security** to bring these worlds together — where code meets culture, and creativity meets discipline.
-
----
-
-### 🔧 Projects & Interests:
-- 🛠️ Recon Toolkits for red teams & freelancers  
-- 🤖 GPT-powered InfoSec assistants  
-- 🌐 AI-augmented OSINT workflows  
-- 🎶 Experimental music & digital rituals
-
----
-
-> Want a free recon audit on your personal or company domain?  
-> 👉 [Visit recon.proxoffensive.com](https://recon.proxoffensive.com)  
-> 📫 Reach me at felix.gutierrez@proxoffensive.com
----
-
-🫱🏻‍🫲🏽 Let’s build something real.
-
+## Working principles
+- Reproducibility over hype
+- Safety and responsible disclosure
+- Measurable outcomes
+- Minimalism and clarity
