@@ -5,6 +5,12 @@
 
 Building public-safe offensive tooling with enforceable OPSEC gates; advanced orchestration and lab workflows remain private by design.
 
+## Key repos
+- [DonTrabajoGPT-Core](https://github.com/DonTrabajo/DonTrabajoGPT-Core) — recon core with OPSEC gates
+- [ProxMesh-Blueprint](https://github.com/DonTrabajo/ProxMesh-Blueprint) — multi-agent blueprint with demo + gates
+- [ProxReconToolkit](https://github.com/DonTrabajo/ProxReconToolkit) — client-facing recon starter + sample audit
+- [apt33-scythe-case-study](https://github.com/DonTrabajo/apt33-scythe-case-study) — emulation + detections
+
 Hi, I’m Felix — a red team recon specialist, ethical hacker, and lifelong creative.
 
 As **Prox**, I focus on real-world offensive security: building tools, auditing attack surfaces, and integrating AI workflows into practical InfoSec ops. My current work includes the [Prox Offensive Recon Toolkit](https://recon.proxoffensive.com), custom GPT assistants, and OSINT enrichment pipelines.
