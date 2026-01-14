@@ -2,10 +2,10 @@
 Building public-safe offensive tooling with enforceable OPSEC gates; advanced orchestration and lab workflows remain private by design.
 
 ## Start here
-- [DonTrabajoGPT-Core](https://github.com/DonTrabajo/DonTrabajoGPT-Core) ? public recon core (linPEAS parsing + CVE matching) with CI-enforced OPSEC gates
-- [ProxMesh-Blueprint](https://github.com/DonTrabajo/ProxMesh-Blueprint) ? public blueprint of a local-first multi-agent security lab (demo + OPSEC gates)
-- [ProxReconToolkit](https://github.com/DonTrabajo/ProxReconToolkit) ? client-facing recon starter + sample audit (public-safe)
-- [apt33-scythe-case-study](https://github.com/DonTrabajo/apt33-scythe-case-study) ? APT33 emulation case study with detections, hunting queries, and results/tuning notes
+- [DonTrabajoGPT-Core](https://github.com/DonTrabajo/DonTrabajoGPT-Core) - public recon core (linPEAS parsing + CVE matching) with CI-enforced OPSEC gates
+- [ProxMesh-Blueprint](https://github.com/DonTrabajo/ProxMesh-Blueprint) - public blueprint of a local-first multi-agent security lab (demo + OPSEC gates)
+- [ProxReconToolkit](https://github.com/DonTrabajo/ProxReconToolkit) - client-facing recon starter + sample audit (public-safe)
+- [apt33-scythe-case-study](https://github.com/DonTrabajo/apt33-scythe-case-study) - APT33 emulation case study with detections, hunting queries, and results/tuning notes
 
 ## What I do
 - AI-augmented recon and reporting tooling
